@@ -1,0 +1,24 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "typescript, scss (non javascript framework)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theeraphon/webpack-boilerplate.git"
+  },
+  "keywords": [
+    "Webpack",
+    "typescript",
+    "scss"
+  ],
+  "author": "Theeraphon Samathi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theeraphon/webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/theeraphon/webpack-boilerplate#readme"
+}
